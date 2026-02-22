@@ -26,6 +26,7 @@
 ---
 
 ## 📁 Project Structure
+```
 ScoreMash/
 ├── data/ # Seed data for matches, teams, players
 ├── models/ # Mongoose schemas
@@ -33,4 +34,5 @@ ScoreMash/
 ├── routes/ # Express route handlers
 ├── views/ # EJS templates
 └── server.js # Entry point
+```
 
